@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculatriceIMC</string>
+    <string name="weightTextView">Enter  your weight :</string>
+    <string name="weightEditTextHint">Weight :</string>
+    <string name="heightTextView">Enter your height :</string>
+    <string name="heightEditTextHint">Height :</string>
+    <string name="metersRadioButton">Meters</string>
+    <string name="centimetersRadioButton">Centimeters</string>
+    <string name="valuationCheckBox">Valuation</string>
+    <string name="calculateBMIButton">Calculate BMI</string>
+    <string name="resetButton">Reset</string>
+    <string name="resultTextView">Result :</string>
+    <string name="resultTextView2">You have to click on the \"Calculate BMI\" button to get a result.</string>
+    <string name="famine">Famine</string>
+    <string name="thinness">Thinness</string>
+    <string name="normalBuild">Normal build</string>
+    <string name="overweight">Overweight</string>
+    <string name="moderateObesity">Moderate obesity</string>
+    <string name="severeObesity">Severe obesity</string>
+    <string name="morbidObesity">Morbid obesity</string>
+    <string name="yourBMIIs">Your BMI is</string>
+    <string name="heightMustBePositive">The height must be positive</string>
+    <string name="weightMustBePositive">The weight must be positive</string>
+</resources>

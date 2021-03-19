@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalculatriceIMC</string>
+    <string name="weightTextView">Entrez votre poids :</string>
+    <string name="weightEditTextHint">Poids :</string>
+    <string name="heightTextView">Entrez votre taille :</string>
+    <string name="heightEditTextHint">Taille :</string>
+    <string name="metersRadioButton">Mètres</string>
+    <string name="centimetersRadioButton">Centimètres</string>
+    <string name="valuationCheckBox">Appréciation</string>
+    <string name="calculateBMIButton">Calculer l\'IMC</string>
+    <string name="resetButton">Reset</string>
+    <string name="resultTextView">Résultat :</string>
+    <string name="resultTextView2">Vous devez cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat.</string>
+    <string name="famine">Famine</string>
+    <string name="thinness">Maigreur</string>
+    <string name="normalBuild">Corpulence normale</string>
+    <string name="overweight">Surpoids</string>
+    <string name="moderateObesity">Obésité modérée</string>
+    <string name="severeObesity">Obésité sévère</string>
+    <string name="morbidObesity">Obésité morbide</string>
+    <string name="yourBMIIs">Votre IMC est</string>
+    <string name="heightMustBePositive">La taille doit être positive</string>
+    <string name="weightMustBePositive">Le poids doit etre positif</string>
+</resources>
